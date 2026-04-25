@@ -1,41 +1,37 @@
-# Amritansu Aditya
+## Hi, I'm Amritansu 👋
 
-Final-year CS undergrad. I build full-stack web apps, train ML models,
-and am currently leveling up in Spring Boot and AI systems.
+Final-year CS undergrad. I build full-stack web apps with MERN, train ML models in PyTorch, and am currently leveling up in Spring Boot and AI systems.
 
 ---
 
-## What I work with
+### What I work with
 
 **Solid**
-- JavaScript / React / Node.js / MongoDB (MERN)
-- Python — DSA, PyTorch, ML pipelines
+`JavaScript` `React` `Node.js` `MongoDB` `Python` `PyTorch` `ML / DSA`
 
-**Currently learning**
-- Java / Spring Boot (REST APIs, JWT auth)
-- AI systems & LLM integration
+**Learning**
+`Java` `Spring Boot` `LLM / AI systems`
 
 ---
 
-## Projects
+### Projects
 
 | Project | Stack | What it does |
 |---|---|---|
 | [MERN Chat App](https://github.com/amritansu-adi/mern-chat-app) | React, Node, MongoDB | Real-time chat with auth |
-| [Multimodal Threat Detection](https://github.com/amritansu-adi/threat-detection) | Python, CNN, DistilBERT | Detects threats via audio + video + text fusion |
-| [GPT-2 from Scratch](https://github.com/amritansu-adi/gpt-2) | Python, PyTorch | Built and trained GPT-2 architecture |
+| [Multimodal Threat Detection](https://github.com/amritansu-adi/threat-detection) | Python, CNN, DistilBERT | Audio + video + text fusion threat detection |
+| [GPT-2 from Scratch](https://github.com/amritansu-adi/gpt-2) | Python, PyTorch | Built and trained full GPT-2 architecture |
 | [GPT Tokeniser](https://github.com/amritansu-adi/gpt-tokeniser) | Python | BPE tokeniser implementation |
-| [Movie Recommendation System](https://github.com/amritansu-adi/movie-recommendation) | Python, ML | Content/collaborative filtering |
+| [Movie Recommendation](https://github.com/amritansu-adi/movie-recommendation) | Python, ML | Content + collaborative filtering |
+| Spring Boot Task Manager *(in progress)* | Java, Spring Boot | JWT auth REST API |
 
 ---
 
-## Currently building
-
-- Spring Boot Apps
-- More ML and AI projects
+### Currently building
+- Spring Boot REST API with JWT authentication
+- More ML and AI systems projects
 
 ---
 
-## Connect
-
-[LinkedIn](https://linkedin.com/in/your-link) • amritansuaditya1@email.com • [amritansu.onrender.com ](https://amritansu-aditya.onrender.com/)
+### Connect
+[LinkedIn](https://linkedin.com/in/your-link) · [Portfolio](https://amritansu.onrender.com) · amritansuaditya1@gmail.com
