@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-amritansuaditya1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritansuaditya1@gmail.com)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-amritansuaditya1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amritansuaditya1)
+[![LeetCode Contests](https://img.shields.io/badge/LeetCode_Contests-amrit4code-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amrit4code)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Amritansu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Amritansu)
 [![CodeChef](https://img.shields.io/badge/CodeChef-amritansuadity-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/amritansuadity)
 
