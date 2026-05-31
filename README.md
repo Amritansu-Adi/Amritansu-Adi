@@ -5,7 +5,7 @@
 **AI / ML Engineer · Full-Stack Developer · Competitive Programmer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amritansu--adi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritansu-adi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amritansu.onrender.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amritansu.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amritansu.onrender.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amritansu-aditya.vercel.app)
 [![Email](https://img.shields.io/badge/Email-amritansuaditya1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritansuaditya1@gmail.com)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-amritansuaditya1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amritansuaditya1)
